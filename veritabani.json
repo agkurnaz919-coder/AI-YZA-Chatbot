@@ -1,0 +1,30 @@
+{
+  "stoklar": {
+    "nar_eksisi": {
+      "isim": "Hatay Nar Ekşisi",
+      "adet": 45,
+      "fiyat_tl": 250
+    },
+    "surk_peyniri": {
+      "isim": "Sürk Peyniri",
+      "adet": 12,
+      "fiyat_tl": 120
+    }
+  },
+  "siparisler": {
+    "101": {
+      "musteri": "Ahmet Yılmaz",
+      "urun": "Hatay Nar Ekşisi",
+      "durum": "Kargoya Verildi",
+      "teslimat": "Yarın",
+      "kargo_firmasi": "Yurtiçi Kargo"
+    },
+    "102": {
+      "musteri": "Ayşe Kaya",
+      "urun": "Sürk Peyniri",
+      "durum": "Hazırlanıyor",
+      "teslimat": "2 gün sonra",
+      "kargo_firmasi": "Henüz atanmadı"
+    }
+  }
+}
